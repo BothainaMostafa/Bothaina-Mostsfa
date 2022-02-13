@@ -14,6 +14,7 @@ For more info [here](https://www.guru99.com/installing-selenium-webdriver.html).
 
 ## Usage
 **LoginTestSuite** - Run the test suite for login scenarios.
+
 **RegistrationTestSuite** - Run the test suite for registeration scenarios.
 
 ## Contributing
