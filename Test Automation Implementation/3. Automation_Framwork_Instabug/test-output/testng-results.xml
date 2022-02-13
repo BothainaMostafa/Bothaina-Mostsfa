@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-02-12T17:22:01 EET" name="Default suite" finished-at="2022-02-12T17:22:29 EET" duration-ms="28370">
+    <groups>
+    </groups>
+    <test started-at="2022-02-12T17:22:01 EET" name="Default test" finished-at="2022-02-12T17:22:29 EET" duration-ms="28370">
+      <class name="tests.RegistrationTestSuite">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:tests.RegistrationTestSuite@574b560f]" started-at="2022-02-12T17:22:01 EET" name="beforeMethod" finished-at="2022-02-12T17:22:26 EET" duration-ms="25322" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method signature="registerNewUser()[pri:0, instance:tests.RegistrationTestSuite@574b560f]" started-at="2022-02-12T17:22:26 EET" name="registerNewUser" finished-at="2022-02-12T17:22:29 EET" duration-ms="3018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- registerNewUser -->
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:tests.RegistrationTestSuite@574b560f]" started-at="2022-02-12T17:22:29 EET" name="afterMethod" finished-at="2022-02-12T17:22:29 EET" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- tests.RegistrationTestSuite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
